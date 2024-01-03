@@ -1,0 +1,4 @@
+- 👋 Hi, I’m shishi, I'm from Russia
+- 👀 I’m interested in programming
+- 🌱 I am currently studying at Gzhel State University in the course of information systems and programming
+- 📫 You can contact me by e-mail shishiqaqa22@gmail.com
